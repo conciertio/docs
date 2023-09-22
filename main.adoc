@@ -29,7 +29,7 @@ _This documentation assumes familiarity with docker, and docker-compose files, s
 
 There is a video tutorial https://www.conciert.io/starter.html[here] with LXD clusters.
 
-Github https://github.com/conciertio[here]
+Github https://github.com/conciertio/concierto[here]
 
 === Motivation
 
